@@ -1,3 +1,0 @@
-# fengzhenya
-myIndex
-hello world
